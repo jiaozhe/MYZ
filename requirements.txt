@@ -1,0 +1,8 @@
+# Packaging
+setuptools
+wheel
+twine
+
+# Document
+Sphinx
+sphinx_rtd_theme
